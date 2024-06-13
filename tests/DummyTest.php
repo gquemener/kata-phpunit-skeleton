@@ -1,6 +1,6 @@
 <?php
 
-namespace GQ\Kata\Tests;
+namespace App\Kata\Tests;
 
 use PHPUnit\Framework\Attributes\Test;
 use PHPUnit\Framework\TestCase;

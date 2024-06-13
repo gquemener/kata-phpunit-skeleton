@@ -7,12 +7,12 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "GQ\\Kata\\": "src/"
+      "App\\Kata\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "GQ\\Kata\\Tests\\": "tests/"
+      "App\\Kata\\Tests\\": "tests/"
     }
   },
   "authors": [
