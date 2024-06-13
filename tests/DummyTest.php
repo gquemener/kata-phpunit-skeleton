@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace App\Kata\Tests;
 
 use PHPUnit\Framework\Attributes\Test;
@@ -10,6 +12,6 @@ final class DummyTest extends TestCase
     #[Test]
     public function is_true(): void
     {
-	self::assertTrue(true);
+        self::assertTrue(true);
     }
 }
